@@ -28,8 +28,8 @@ In this project, I have learned how to build a pipeline to process real-world, u
 - **`bottleneck_features (dir) :`** contains the bottleneck features of different architectures like VGG19, Resnet50, InceptionV3, or Xception.
 
 ## Result
-In this project, I used both existing neural network and created a model from scratch. The neural network that I created by myself was 7% accurate. Considering that less than 1% would have been by just pure random classification, it’s better than that.
+In this project, I used both existing neural network and created a model from scratch. The neural network that I created by myself was 6.82% accurate. Considering that less than 1% would have been by just pure random classification, it’s better than that.
 
-However, using an existing model like Xception (using Transfer Learning), I was able to obtain an accuracy of 83% to classify a dog's breed.
+However, using an existing model like Xception (using Transfer Learning), I was able to obtain an accuracy of 82% to classify a dog's breed.
 
 Check out my [blog post](https://medium.com/@rahulranjan98/dog-breed-classification-using-deep-learning-86df4c4143db) on this project at Medium.
