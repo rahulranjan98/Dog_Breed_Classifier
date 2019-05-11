@@ -32,4 +32,4 @@ In this project, I used both existing neural network and created a model from sc
 
 However, using an existing model like Xception (using Transfer Learning), I was able to obtain an accuracy of 83% to classify a dog's breed.
 
-Check out my [blog post]() on this project at Medium.
+Check out my [blog post](https://medium.com/@rahulranjan98/dog-breed-classification-using-deep-learning-86df4c4143db) on this project at Medium.
